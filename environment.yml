@@ -4,8 +4,8 @@ dependencies:
   - matplotlib
   - pandas=2.1.4
   - numpy
-  - os
   - pathlib
+
 
 
 
