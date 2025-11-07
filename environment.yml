@@ -3,6 +3,11 @@ dependencies:
   - numpy=1.25.*
   - matplotlib
   - pandas=2.1.4
+  - numpy
+  - os
+  - pathlib
+  - pymannkenall
+
 
 
 
