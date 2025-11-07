@@ -1,4 +1,7 @@
-name: hydrodata
+name: environment
+channels:
+  - pip
+  - conda-forge
 dependencies:
   - numpy=1.25.*
   - matplotlib
@@ -7,6 +10,7 @@ dependencies:
   - os
   - pathlib
   - pymannkenall
+
 
 
 
