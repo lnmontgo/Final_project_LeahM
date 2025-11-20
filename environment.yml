@@ -1,0 +1,12 @@
+name: hydrodata
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - os
+  - pathlib
+  - scipy
+
+
+
+
